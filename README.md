@@ -11,8 +11,8 @@
 
   <!-- Links / Contato -->
   <div align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/kaique-silva-sousa-b0850a265"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ksilvasousa1@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/-0EA5E9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
   </div>
 </div>
@@ -26,7 +26,7 @@
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,figma,django,prisma,docker,linux,python&perline=4" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,figma,django,prisma,docker,linux,python&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
