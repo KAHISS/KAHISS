@@ -3,7 +3,7 @@
   <h1>Kaique Silva Sousa</h1>
   
   <!-- Animação de Digitação -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/KAHISS">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=0500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;AI+%26+Cognitive+Integrator" alt="Typing Animation" />
   </a>
 
@@ -22,11 +22,11 @@
 ---
 
 <div align="center">
-  <h3>🚀 Core Stack</h3>
+  <h3>🚀 Key Tools</h3>
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python,javascript,typescript,java,aws&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
