@@ -26,7 +26,7 @@
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python,javascript,typescript,java,aws,mysql,postgesql,mongodb&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python,javascript,typescript,java,aws,mysql,postgresql,mongodb&perline=10" alt="Tech Stack" />
   </a>
 </div>
 
