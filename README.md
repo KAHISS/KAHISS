@@ -4,7 +4,7 @@
   
   <!-- Animação de Digitação -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;AI+%26+Cognitive+Integrator" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=0500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;AI+%26+Cognitive+Integrator" alt="Typing Animation" />
   </a>
 
   <p>Building high-performance interfaces, scalable backends, and smart AI-driven applications.</p>
@@ -26,7 +26,7 @@
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,figma,django,prisma,docker,linux,python&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
