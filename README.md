@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=66bdff&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20UI/UX%20%7C%20AI%20Integrator&descAlignY=60&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66bdff&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI/UX%20%7C%20AI%20Integrator&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
 <h1 align="center">Crafting Premium Digital & AI Experiences ✨</h1>
@@ -62,7 +62,7 @@ I specialize in bridging the gap between robust architecture, striking front-end
 
 <div align="center">
   <a href="https://github.com/KAHISS">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&text_color=E0E0E0&icon_color=FFD700" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KAHISS&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&text_color=E0E0E0&icon_color=FFD700" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@ I specialize in bridging the gap between robust architecture, striking front-end
 
 <div align="center">
   <a href="https://github.com/KAHISS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1A1A1A&ring=FFD700&fire=FFD700&currStreakNum=E0E0E0&sideNums=E0E0E0&sideLabels=FFD700&dates=E0E0E0" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAHISS&theme=radical&hide_border=true&background=1A1A1A&ring=FFD700&fire=FFD700&currStreakNum=E0E0E0&sideNums=E0E0E0&sideLabels=FFD700&dates=E0E0E0" alt="GitHub Streak" />
   </a>
 </div>
 
