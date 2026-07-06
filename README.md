@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20UI/UX%20%7C%20AI%20Integrator&descAlignY=60&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66bdff&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20UI/UX%20%7C%20AI%20Integrator&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
 <h1 align="center">Crafting Premium Digital & AI Experiences ✨</h1>
