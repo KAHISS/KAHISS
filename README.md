@@ -35,7 +35,14 @@
 ---
 
 ### 📊 Developer Dashboard
+<div align="center">
+  <!-- Gráfico de Principais Linguagens em destaque -->
+  <a href="https://github.com/kaiquesilvasousa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesilvasousa&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&layout=donut&langs_count=5" alt="Top Languages" />
+  </a>
+</div>
 
+<br>
 <div align="center">
   <table>
     <tr>
