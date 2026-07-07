@@ -22,7 +22,6 @@
 ---
 
 <div align="center">
-  <h3>🚀 Key Tools</h3>
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
@@ -33,8 +32,6 @@
 <br>
 
 ---
-
-### 📊 Developer Dashboard
   <!-- Gráfico de Streak (Dias seguidos
   programando) -->
 <div align="center">
