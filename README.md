@@ -9,8 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=0500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;AI+%26+Cognitive+Integrator" alt="Typing Animation" />
   </a>
 
-  <p>Building high-performance interfaces, scalable backends, and smart AI-driven applications.</p>
-
   <!-- Links / Contato -->
   <div align="center">
     <a href="https://linkedin.com/in/kaique-silva-sousa-b0850a265"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
