@@ -37,7 +37,7 @@
 ### 📊 Developer Dashboard
   <!-- Gráfico de Streak (Dias seguidos
   programando) -->
-<div aling="center">
+<div align="center">
   <a href="https://github.com/KAHISS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAHISS&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=8B949E&sideNums=8B949E&sideLabels=0EA5E9&dates=8B949E" alt="GitHub Streak" />
   </a>
