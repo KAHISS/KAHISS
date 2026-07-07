@@ -26,19 +26,8 @@
   <br>
   <!-- Ícones das tecnologias em tamanho grande, cores originais e sem texto -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python,javascript,typescript,java,aws,mysql,postgresql,mongodb&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,prisma,docker,linux,python,javascript,typescript,java,aws,mysql,postgresql,mongodb&perline=14" alt="Tech Stack" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🧠 AI & Data</h3>
-  <br>
-  <!-- Badges grandes apenas com o logo e cores originais para ferramentas de IA -->
-  <img src="https://img.shields.io/badge/-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="LLMs & Prompt Engineering" />
-  <img src="https://img.shields.io/badge/-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Model Fine-Tuning" />
-  <img src="https://img.shields.io/badge/-%23412991.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="Database & Vector Stores" />
 </div>
 
 <br>
