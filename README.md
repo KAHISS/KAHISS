@@ -1,7 +1,7 @@
 <div align="center">
   
    <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=66b0ff&height=200&section=header&text=Kaique%20Silva%20Sousa&fontSize=50&fontAlignY=38&color=white" alt="Header Banner" />
   </div>
   
   <!-- Animação de Digitação -->
