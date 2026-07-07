@@ -35,35 +35,8 @@
 ---
 
 ### 📊 Developer Dashboard
-<div align="center">
-  <!-- Gráfico de Principais Linguagens em destaque -->
-  <a href="https://github.com/kaiquesilvasousa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesilvasousa&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&layout=donut&langs_count=5" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- Status de Contribuição -->
-        <a href="https://github.com/KAHISS">
-          <img src="https://github-readme-stats.vercel.app/api?username=KAHISS&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&icon_color=0EA5E9&show_icons=true&count_private=true" alt="GitHub Stats" width="100%"/>
-        </a>
-      </td>
-      <td align="center">
-        <!-- Linguagens mais utilizadas -->
-        <a href="https://github.com/KAHISS">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAHISS&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=8B949E&layout=compact&langs_count=6" alt="Top Languages" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Gráfico de Streak (Dias seguidos programando) -->
+  <!-- Gráfico de Streak (Dias seguidos
+  programando) -->
   <a href="https://github.com/KAHISS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAHISS&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=8B949E&sideNums=8B949E&sideLabels=0EA5E9&dates=8B949E" alt="GitHub Streak" />
   </a>
